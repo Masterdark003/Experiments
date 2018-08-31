@@ -22,8 +22,6 @@ public class Exp {
         System.out.println("sad sad sad saxzc");
         if (true) {
             System.out.println("sad");
-        } else {
-            System.out.println("cczxc");
         }
     }
     
