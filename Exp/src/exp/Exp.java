@@ -21,10 +21,17 @@ public class Exp {
         }
         System.out.println("sad sad sad saxzc");
         System.out.println("sadsadsa dassad ");
-        for (int i = 0; i < 10; i++) {
+        int i = 0;
+        do {
+            i++;
+        } while (i<5);
+
+        for (int j = 0; j < 10; j++) {
             System.out.println("Test");
         }
         System.out.println("sadsad");
+        System.out.println("probando");
+
         
     }
     
