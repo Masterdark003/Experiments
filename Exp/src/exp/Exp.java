@@ -21,6 +21,11 @@ public class Exp {
         }
         System.out.println("sad sad sad saxzc");
         System.out.println("sadsadsa dassad ");
+        int i = 0;
+        do {
+            i++;
+        } while (i<5);
+        
     }
     
 }
