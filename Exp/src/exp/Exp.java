@@ -29,9 +29,12 @@ public class Exp {
         for (int j = 0; j < 10; j++) {
             System.out.println("Test");
         }
+        System.out.println("Proyecto no sincronizado");
         System.out.println("sadsad");
         System.out.println("probando");
         System.out.println("sad sa dsa sad");
+        System.out.println("Testing");
+
         
     }
     
