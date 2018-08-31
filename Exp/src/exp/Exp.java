@@ -32,12 +32,9 @@ public class Exp {
         System.out.println("Proyecto no sincronizado");
         System.out.println("sadsad");
         System.out.println("probando");
-<<<<<<< HEAD
         System.out.println("sad sa dsa sad");
-=======
         System.out.println("Testing");
 
->>>>>>> origin/master
         
     }
     
