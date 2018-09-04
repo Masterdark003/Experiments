@@ -43,8 +43,11 @@ public class Exp {
         System.out.println("sad");
         
         System.out.println("holi");
-        
-        
+         int sd= 0;
+        while(sd == 1){
+            
+        }
+          
     }
     
 }
