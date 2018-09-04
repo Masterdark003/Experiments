@@ -40,6 +40,7 @@ public class Exp {
         for (int j = 0; j < 10; j++) {
             System.out.println("sadsadsa");
         }
+        System.out.println("sad");
 
         
     }
