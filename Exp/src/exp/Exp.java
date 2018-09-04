@@ -34,16 +34,13 @@ public class Exp {
         }
         System.out.println("Proyecto no sincronizado");
         System.out.println("sadsad");
-        System.out.println("probando");
-        System.out.println("sad sa dsa sad");
-        System.out.println("Testing");
-        for (int j = 0; j < 10; j++) {
-            System.out.println("sadsadsa");
-        }
         System.out.println("sad");
         
         System.out.println("holi");
         
+        for (int j = 0; j < 10; j++) {
+            System.out.println("pruebas");
+        }
         
     }
     
